@@ -1253,11 +1253,3 @@ rds.create_db_instance(
    └─ N: Single region
    └─ Y: Aurora Global Database
 ```
-
----
-
-## Resources
-
-- [AWS RDS Documentation](https://docs.aws.amazon.com/rds/)
-- [RDS Pricing Calculator](https://calculator.aws/)
-- [RDS Best Practices Whitepaper](https://aws.amazon.com/rds/best-practices/)

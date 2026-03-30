@@ -1045,12 +1045,3 @@ response = dynamodb.query(
     }
 )
 ```
-
----
-
-## Resources
-
-- [AWS DynamoDB Documentation](https://docs.aws.amazon.com/dynamodb/)
-- [Best Practices Guide](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
-- [Pricing Calculator](https://aws.amazon.com/dynamodb/pricing/on-demand/)
-- [DynamoDB Local (for testing)](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)

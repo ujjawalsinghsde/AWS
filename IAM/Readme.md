@@ -1317,12 +1317,3 @@ Flow:
   ├─ Federation: SSO for centralized identity
   └─ Automation: Lambda for compliance checking
 ```
-
----
-
-## Resources
-
-- [AWS IAM Documentation](https://docs.aws.amazon.com/iam/)
-- [IAM Policy Examples](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_policies_examples.html)
-- [IAM Best Practices](https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html)
-- [Policy Simulator](https://policysim.aws.amazon.com/)
