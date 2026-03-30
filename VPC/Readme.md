@@ -980,11 +980,3 @@ aws ec2 describe-security-groups
 │  └────────────────────┘  │
 └──────────────────────────┘
 ```
-
----
-
-## Resources
-
-- [AWS VPC Documentation](https://docs.aws.amazon.com/vpc/)
-- [VPC Sizing and Planning](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Subnets.html)
-- [Security Best Practices](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html)
